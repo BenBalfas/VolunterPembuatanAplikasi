@@ -440,7 +440,7 @@ Berikut daftar Volunter yang diterima:
 ### W
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
-* Wildan Djamal Belfass, [Github] (https://benbalfas.github.io/personal-project).
+* Wildan Djamal Belfass, [Github](https://benbalfas.github.io/personal-project).
 
 ### X
 ### Y
